@@ -3,3 +3,4 @@ The application is for learning the Github
 2. Create Student Profile
 3. Create Teacher Profile
 4. Create Admin
+5. Create Parent Profile
