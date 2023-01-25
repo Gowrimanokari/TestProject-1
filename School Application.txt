@@ -1,0 +1,5 @@
+The application is for learning the Github
+1  Create the School Profile
+2. Create Student Profile
+3. Create Teacher Profile
+4. Create Admin
